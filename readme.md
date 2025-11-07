@@ -1,1 +1,1 @@
-A CUSTOM MADE MOUSE FILE FOR MY VIPER ULTIMATE (ALSO TESTED FOR MINI) , works with m4,m5 and scroll ,  use it with ur arduino leonardo, for automating stuff .... like color bots and stuff   :X 
+A CUSTOM MADE MOUSE FILE FOR MY VIPER ULTIMATE (ALSO TESTED FOR MINI) , works with m4,m5 and scroll ,  use it with ur arduino leonardo, for automating stuff .... like color bots and stuff  
