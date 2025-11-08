@@ -180,7 +180,7 @@ void setup() {
     Serial.begin(9600);
     
     // Init USB/Mouse
-    if (Usb.Init() == -1) Serial.println("HOST SHIELD NÃO ENCONTRADO.");
+    if (Usb.Init() == -1) Serial.println("actully , u connected to wrong port ,..... ..smh ,check com3");
     HidMouse.SetReportParser(0,(HIDReportParser*)&Prs);
 }
 
